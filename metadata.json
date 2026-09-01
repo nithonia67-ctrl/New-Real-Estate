@@ -1,0 +1,8 @@
+{
+  "name": "SafariNest - East Africa Marketplace",
+  "description": "Premier multi-vendor marketplace in East Africa for real estate, land, vehicles, stays, experiences, and local services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
